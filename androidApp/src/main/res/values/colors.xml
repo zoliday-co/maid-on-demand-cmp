@@ -1,0 +1,4 @@
+<resources>
+    <!-- Matches the first stop of the in-app splash gradient so the hand-off is seamless. -->
+    <color name="splash_background">#2B1A6B</color>
+</resources>

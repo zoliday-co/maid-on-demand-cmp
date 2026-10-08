@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logo glyph: a home with a "sparkling clean" star. Kept inside the 66dp adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#C8F54A"
+        android:pathData="M54,31 L77,51 L77,77 L31,77 L31,51 Z"
+        android:strokeColor="#C8F54A"
+        android:strokeLineJoin="round"
+        android:strokeWidth="7" />
+    <path
+        android:fillColor="#2B1A6B"
+        android:pathData="M54,45 C55.6,54 58,56.4 67,58 C58,59.6 55.6,62 54,71 C52.4,62 50,59.6 41,58 C50,56.4 52.4,54 54,45 Z" />
+</vector>

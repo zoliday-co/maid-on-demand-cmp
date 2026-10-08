@@ -1,0 +1,8 @@
+<resources>
+    <!-- Android 12+ system splash: the logo glyph on brand violet, then the Compose splash takes over. -->
+    <style name="Theme.MaidOnDemand" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splash_background</item>
+        <item name="android:windowSplashScreenBackground">@color/splash_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+    </style>
+</resources>
